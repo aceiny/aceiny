@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **react**
 
+- ⚡ Fun fact **man7abach el kabda**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
