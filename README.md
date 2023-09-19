@@ -1,6 +1,6 @@
 <div align="center">
  # 💫 About Me: <br/>
-🌱 I’m currently learning more about backend<br>💬 Ask me about react <br>⚡ Fun fact man7abach el kabda
+🌱 I’m currently learning about react native<br>💬 Ask me about react <br>⚡ Fun fact man7abach el kabda
 
 
 ## 🌐 Socials:
