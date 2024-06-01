@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Aceiny 👋</h2><br>
+<h2 align="center">Hi there, I'm Yacine 👋</h2><br>
 
 
 <p align="center">I'm a passionate developer and CS student constantly exploring new technologies and building exciting projects.</p>
