@@ -1,4 +1,6 @@
 <h2 align="center">Hi there, I'm Aceiny 👋</h2><br>
+
+
 <p align="center">I'm a passionate developer and CS student constantly exploring new technologies and building exciting projects.</p>
 
 ###
@@ -20,7 +22,7 @@
 
 ###
 
-<img align="right" height="250" src="https://24.media.tumblr.com/089b18e864c2a3353e57db03a17ccd9d/tumblr_mhd7b0EXAB1rhyx92o1_500.gif"  />
+<img align="right" height="210" src="https://24.media.tumblr.com/089b18e864c2a3353e57db03a17ccd9d/tumblr_mhd7b0EXAB1rhyx92o1_500.gif"  />
 
 ###
 
