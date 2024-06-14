@@ -1,7 +1,4 @@
-<h2 align="center">Hi there, I'm Yacine 👋</h2><br>
-
-
-<p align="center">I'm a passionate developer and CS student constantly exploring new technologies and building exciting projects.</p>
+<p align="center">Hi there, I'm Aceiny 👋<br>I'm a passionate developer and CS student constantly exploring new technologies and building exciting projects.</p>
 
 ###
 
@@ -60,6 +57,8 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="40" alt="socketio logo"  />
   <img width="12" />
