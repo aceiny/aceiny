@@ -88,8 +88,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceiny&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="aceiny's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aceiny&theme=radical&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
+  <img src="https://nirzak-streak-stats.vercel.app?user=aceiny&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ###
