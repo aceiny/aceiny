@@ -77,7 +77,7 @@ I am a passionate **Mid-Level Software Engineer** based in **France**. My journe
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aceiny">LinkedIn</a> •
-  <a href="https://medium.com/@azeraibi">Medium</a> •
+  <a href="https://medium.com/@a_zeraibi">Medium</a> •
   <a href="https://github.com/aceiny">GitHub</a> •
   <a href="https://yxne.tech">yxne.tech</a>
 </div>
