@@ -1,18 +1,21 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm91Z3V3eGZtbm81Z3V3eGZtbm81Z3V3eGZtbm81Z3V3eGZtbm81Z3V3eGZtbm81Z3V3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVI9svk74Ufl7s/giphy.gif" width="100" />
-  <h1>Hi there, I'm <a href="https://github.com/aceiny">Aceiny</a>! 👋</h1>
+  <img align="right" height="210" src="https://24.media.tumblr.com/089b18e864c2a3353e57db03a17ccd9d/tumblr_mhd7b0EXAB1rhyx92o1_500.gif" />
+  <h1>Hi there, I'm <a href="https://github.com/aceiny">Yassine</a>! 👋</h1>
 
-  <h3>Mid-Level Software Engineer 🇫🇷</h3>
+  <h3>Mid-Level Software Engineer</h3>
   <p>Full Stack | DevOps | AI | Cybersecurity</p>
 
-  <a href="https://discordapp.com/users/aceiny">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="discord logo" />
+  <a href="https://medium.com/@azeraibi">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30" alt="medium logo" />
   </a>
   <a href="https://www.linkedin.com/in/aceiny">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin logo" />
   </a>
   <a href="mailto:aceiny.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="gmail logo" />
+  </a>
+  <a href="https://yxne.tech">
+    <img src="https://img.shields.io/badge/Portfolio-yxne.tech-black?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="portfolio logo" />
   </a>
 </div>
 
@@ -33,19 +36,24 @@ I am a passionate **Mid-Level Software Engineer** based in **France**. My journe
 <div align="center">
 
 **Languages**<br />
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,java,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,go,bash" />
 
 **Frontend**<br />
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,figma" />
 
 **Backend**<br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,socketio" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,graphql" />
 
-**Database**<br />
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase" />
 
-**DevOps & Cloud**<br />
-<img src="https://skillicons.dev/icons?i=linux,docker,azure,nginx,git,github,vscode" />
+**Databases**<br />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase,prisma,mysql" />
+
+
+**DevOps & Security**<br />
+<img src="https://skillicons.dev/icons?i=linux,docker,azure,digitalocean,vercel,nginx,cloudflare" />
+
+**AI & Tools**<br />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,githubactions,vscode,postman,jest" />
 
 </div>
 
@@ -64,3 +72,12 @@ I am a passionate **Mid-Level Software Engineer** based in **France**. My journe
 <br />
 
 <img src="https://raw.githubusercontent.com/aceiny/aceiny/output/snake.svg" alt="Snake animation" width="100%" />
+
+<br />
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aceiny">LinkedIn</a> •
+  <a href="https://medium.com/@azeraibi">Medium</a> •
+  <a href="https://github.com/aceiny">GitHub</a> •
+  <a href="https://yxne.tech">yxne.tech</a>
+</div>
