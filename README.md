@@ -5,7 +5,7 @@
   <h3>Mid-Level Software Engineer</h3>
   <p>Full Stack | DevOps | AI | Cybersecurity</p>
 
-  <a href="https://medium.com/@azeraibi">
+  <a href="https://medium.com/@a_zeraibi">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30" alt="medium logo" />
   </a>
   <a href="https://www.linkedin.com/in/aceiny">
