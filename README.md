@@ -14,8 +14,8 @@
   <a href="mailto:aceiny.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="gmail logo" />
   </a>
-  <a href="https://yxne.tech">
-    <img src="https://img.shields.io/badge/Portfolio-yxne.tech-black?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="portfolio logo" />
+  <a href="https://yxne.me">
+    <img src="https://img.shields.io/badge/Portfolio-yxne.me-black?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="portfolio logo" />
   </a>
 </div>
 
@@ -79,5 +79,5 @@ I am a passionate **Mid-Level Software Engineer** based in **France**. My journe
   <a href="https://www.linkedin.com/in/aceiny">LinkedIn</a> •
   <a href="https://medium.com/@a_zeraibi">Medium</a> •
   <a href="https://github.com/aceiny">GitHub</a> •
-  <a href="https://yxne.tech">yxne.tech</a>
+  <a href="https://yxne.me">yxne.me</a>
 </div>
