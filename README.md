@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Mid-Level Software Engineer** based in **France**. My journey involves building scalable full-stack applications and orchestrating robust infrastructure. Currently, I am expanding my expertise into the realms of **Artificial Intelligence** and **Cybersecurity** to build smarter, safer systems.
+I am a passionate **Mid-Level Software Engineer** . My journey involves building scalable full-stack applications and orchestrating robust infrastructure. Currently, I am expanding my expertise into the realms of **Artificial Intelligence** and **Cybersecurity** to build smarter, safer systems.
 
 * 🔭 I’m currently working on high-performance web applications and cloud architecture.
 * 🔐 I’m deeply interested in **Network Security** and **SecOps**.
